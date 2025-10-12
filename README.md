@@ -33,7 +33,7 @@ This section breaks down employees into those due for promotion and those not el
 
 We present a snapshot of job levels across the organization, offering insights into the workforce hierarchy.
 
-
+![Department Analysis](https://github.com/Bolanle-ae/HR-data-visualization/raw/main/images/dept%20analysis.png)
 
 **Page 2: Departmental Analysis**
 
