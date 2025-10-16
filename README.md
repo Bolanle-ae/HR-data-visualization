@@ -65,7 +65,7 @@ This table lists the names of employees due for retrenchment, ensuring transpare
 
 In this table, you'll find a comprehensive list of names of employees due for promotion, ensuring transparency in HR decisions.
 
-
+![Employee List](https://github.com/Bolanle-ae/HR-data-visualization/raw/main/images/employee%20list.png)
 
 **Conclusion**
 
