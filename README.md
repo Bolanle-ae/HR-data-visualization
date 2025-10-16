@@ -29,14 +29,6 @@ We categorize employee commuting distances into three groups: very close, close,
 
 This section breaks down employees into those due for promotion and those not eligible, helping us focus the HR efforts.
 
-**Job Levels**
-
-We present a snapshot of job levels across the organization, offering insights into the workforce hierarchy.
-
-![Department Analysis](https://github.com/Bolanle-ae/HR-data-visualization/raw/main/images/dept%20analysis.png)
-
-**Page 2: Departmental Analysis**
-
 **Department-Specific Insights**
 
 Page two of the HR data visualization is dedicated to departmental insights and overtime analysis.
@@ -49,6 +41,7 @@ We dive into department-specific data, showcasing the number of employees due fo
 
 By analyzing employee overtime hours, we gain a better understanding of the workload distribution within the teams.
 
+![Department Analysis](https://github.com/Bolanle-ae/HR-data-visualization/raw/main/images/dept%20analysis.png)
 
 
 **Page 2: Employee Lists**
